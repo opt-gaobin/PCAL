@@ -4,6 +4,7 @@ A Matlab solver for optimization problems with orthogonality constraints.
 This solver is to solve the following problem,
 > min f(X),
   s.t.  X'X=I
+  
 where X is a n-by-p matrix.
 ### Examples
 + min trace(X'AX)+trace(G'X), s.t.  X'X=I.
