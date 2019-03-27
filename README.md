@@ -14,7 +14,7 @@ This solver is to solve the following problem,
 + [Bin Gao](https://www.gaobin.cc/) (AMSS, CAS, China)
 + [Xin Liu](http://lsec.cc.ac.cn/~liuxin/index.html) (AMSS, CAS, China)
 # Copyright
-Copyright (C) 2017, Bin Gao, Xin Liu
+Copyright (C) 2016, Bin Gao, Xin Liu
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
