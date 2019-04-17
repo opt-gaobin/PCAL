@@ -158,7 +158,7 @@ maxit = opts.maxit;
 info = opts.info;
 
 global Ip
-Ip = speye(p);
+Ip = eye(p);
 
 %% ---------------------------------------------------------------
 % Initialization
