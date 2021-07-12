@@ -10,7 +10,7 @@ where X is a n-by-p matrix.
 + min trace(X'AX)+trace(G'X), s.t.  X'X=I.
 
 # References
-+ Bin Gao, Xin Liu and Ya-xiang Yuan, [Parallelizable Algorithms for Optimization Problems with Orthogonality Constraints](https://arxiv.org/abs/1810.03930), SIAM Journal on Scientific Computing, accepted.
++ Bin Gao, Xin Liu and Ya-xiang Yuan, [Parallelizable Algorithms for Optimization Problems with Orthogonality Constraints](https://doi.org/10.1137/18M1221679), SIAM Journal on Scientific Computing, 41-3 (2019), A1949–A1983.
 
 # Authors
 + [Bin Gao](https://www.gaobin.cc/) (AMSS, CAS, China)
