@@ -52,7 +52,7 @@ function [X,Out] = PCAL(X, fun, opts, varargin)
 % --------------------------------------------------------------------
 %  Reference:
 %  B. Gao, X. Liu, and Y.-x. Yuan, Parallelizable algorithms for optimization
-%  problems with orthogonality constraints, arXiv preprint arXiv:1810.03930, (2018).
+%  problems with orthogonality constraints, SIAM Journal on Scientific Computing, 41-3 (2019), A1949–A1983.
 % ----------------------------------
 %  Author: Bin Gao, Xin Liu (ICMSEC, AMSS, CAS)
 %                 gaobin@lsec.cc.ac.cn
